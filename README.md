@@ -1,2 +1,2 @@
-# desafioalura
-challenge-amigo-secreto-one-alura
+# Desafio Alura.
+Desafio do amigo secreto!
